@@ -18,6 +18,6 @@ i used a while loop to keep the login prompt to keep running continously until t
 
 open the terminal in the repository folder and make sure you are in the security-event-logger branch. run the script using: py security_event_logger.py
 
-## Terminal Output Screenshot
+## Output image
 
-"[Task 2 Output](task2_output.png)
+![alt text](image.png)
