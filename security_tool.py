@@ -3,6 +3,7 @@
 #B01887873
 
 def event_counter():
+    """"""
     #function to count the number of incorrect password attempts
     incorrect=0
     #variable incorrect is initialized to 0. This variable will be used to keep track of the number of incorrect password attempts made by the user.
